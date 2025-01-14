@@ -1,4 +1,4 @@
-# UM Triple Forms
+# UM Triple Forms Shortcode
 Extension to Ultimate Member for Triple UM Forms and Directories for Screens, Tablets and Mobiles.
 
 ## UM Settings
@@ -13,6 +13,9 @@ None
 2. Insert the new Form IDs into the shortcode like <code>[um_triple_forms screen="123" tablet="456" mobile="789"]</code>
 3. All UM Forms and Directories are supported by the Plugin.
 
-## Installation
-1. Install by downloading the plugin ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
+## Updates
+1. Version 1.1.0 Support for UM 2.9.2
+
+## Installation & Updates
+1. Install by downloading the plugin ZIP file (Green button) and install or update as a new WP Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
 2. Activate the Plugin: Ultimate Member - Triple Forms Shortcode
